@@ -18,3 +18,11 @@
     font-style: normal;
 
 }
+
+@font-face {
+    font-family: 'animeace';
+    src: url('animeace2_reg.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+
+}
